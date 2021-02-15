@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 [![Twitter: xphong](https://img.shields.io/twitter/follow/xphong?style=social)](https://twitter.com/xphong)
 [![Linkedin: phonghuynh](https://img.shields.io/badge/-xphong-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonghuynh/)](https://www.linkedin.com/in/phonghuynh/)
-[![GitHub xphong](https://img.shields.io/github/followers/xphong?label=follow&style=social)](https://github.com/xphong)
 [![stackoverflow](https://img.shields.io/static/v1?style=social&logo=stackoverflow&label=&message=@xphong)](https://stackoverflow.com/users/1664687/xphong)
 ![](https://visitor-badge.glitch.me/badge?page_id=xphong)
